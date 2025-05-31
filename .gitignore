@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Django migrations (optional, depending on team workflow)
+**/migrations/*.py
+**/migrations/*.pyc
+
+# SQLite database
+db.sqlite3
+
+# Environment files
+.env
+
+# VSCode / PyCharm
+.vscode/
+.idea/
+
+# Media files (uploaded content)
+media/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Byte-compiled and other unnecessary files
+*.log
+
+# Python virtual environments
+env/
+venv/
+ENV/
+.venv/
+
+# Heroku or deployment
+*.pid
+Procfile
+
+# pytest / testing cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Static files (optional if you collect staticfiles)
+staticfiles/
