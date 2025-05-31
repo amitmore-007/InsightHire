@@ -1,0 +1,13 @@
+groq==0.13.1
+pdfplumber==0.11.5
+requests==2.32.3
+django==5.1.6
+gunicorn==23.0.0
+deepface==0.0.93
+numpy==1.26.4
+opencv-python==4.11.0.86
+tf-keras==2.18.0deepface==0.0.93
+
+numpy==1.26.4
+opencv-python==4.11.0.86
+tf-keras==2.18.0
